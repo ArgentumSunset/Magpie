@@ -104,7 +104,7 @@ public class Magpie4 {
 
 		String restOfStatement = statement.substring(psnOfYou + 3, psnOfMe)
 				.trim();
-		return "What makes you think that I " + restOfStatement + " you?";
+		return "Why do you " + restOfStatement + " me?";
 	}
 
 	/**
